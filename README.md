@@ -1,4 +1,4 @@
-# Star-Galaxy Neural network-based Separator (SiGNS)
+# **S**tar-**G**alaxy **N**eural network-based **S**eparator (SiGNS)
 
 SiGNS is a machine learning algorithm for determining astronomical objects as either stars or galaxies from images and minimal other input.
 This git is for the development of SiGNS and any code that may assist/be necessary for running SiGNS.
